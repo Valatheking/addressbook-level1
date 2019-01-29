@@ -171,6 +171,13 @@
 || 
 || 5 persons found!
 || ===================================================
+|| Enter command: || [Command entered:add John Doe1 p/555555 e/johnd@gmail.com]
+|| Invalid command format: add 
+|| add: Adds a person to the address book.
+|| 	Parameters: NAME p/PHONE_NUMBER e/EMAIL
+|| 	Example: add John Doe p/98765432 e/johnd@gmail.com
+|| 
+|| ===================================================
 || Enter command: || [Command entered:  find]
 || 
 || 0 persons found!

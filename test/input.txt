@@ -40,6 +40,7 @@
   list
   add Esther Potato p/555555 e/esther@notreal.potato
   list
+  add John Doe1 p/555555 e/johnd@gmail.com
 
 ##########################################################
 # test find persons command
